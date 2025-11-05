@@ -509,6 +509,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - AI powered by [OpenAI](https://openai.com/)
 - Icons from [Lucide](https://lucide.dev/)
 
+## Author
+[Jan Sobus](https://jansobus.com)
+
 ---
 
 **Need help?** Open an issue or check the [API documentation](http://localhost:8000/docs) for more details.
