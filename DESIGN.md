@@ -947,5 +947,5 @@ curl http://localhost:8000/dump_db > backup.json
 
 **Document Version**: 1.0  
 **Last Updated**: November 2025  
-**Maintained By**: Development Team
+**Maintained By**: Jan Sobus
 
